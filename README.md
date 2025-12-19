@@ -16,8 +16,8 @@ I am currently pursuing a Master’s in Business Analytics at Central European U
 
 ---
 
-## 📺 My YouTube Course
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+## 📺 My YouTube Power BI Course
+[![Watch the video](https://img.youtube.com/vi/L-tdnpGWDyI/0.jpg)](https://www.youtube.com/watch?v=L-tdnpGWDyI&list=PL9EkNWk9KFH2Wih412RWDfLI3aY4RU_PK&pp=gAQB)
 
 
 # 💻 Tech Stack:
