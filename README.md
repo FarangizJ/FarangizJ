@@ -1,7 +1,10 @@
 # 💫 About Me:
 
-I am currently pursuing a Master’s in Business Analytics at Central European University in Vienna, where I work on projects in data analysis, data visualization, and cloud computing.
-<br>In addition, I create educational content on YouTube, including a Power BI course in my native language, to share skills and knowledge that aren’t yet widely available in my community.
+I’m a Master’s student in Business Analytics at Central European University, Vienna, with a strong passion for data-driven decision-making. My work spans data analysis, visualization, and cloud computing, helping transform raw data into actionable insights that support business strategy.
+
+Before diving into analytics, I developed a curiosity for how data shapes real-world decisions, which led me to create educational content on YouTube, including a Power BI course in my native language, making data analytics accessible to a wider audience.
+
+I’m particularly interested in leveraging SQL, Python, R, and visualization tools to uncover patterns, optimize processes, and contribute to smarter business outcomes.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Farangiz_jk) 
@@ -10,31 +13,65 @@ I am currently pursuing a Master’s in Business Analytics at Central European U
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdumalikovaf18@gmail.com)
 
 ---
+### 📺 YouTube
+[![YouTube](https://img.shields.io/badge/YouTube-Power%20BI%20Course-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=L-tdnpGWDyI&list=PL9EkNWk9KFH2Wih412RWDfLI3aY4RU_PK&pp=gAQB)
 
-## ✍️ Quote for Data Analysts
+
+## 🔝 Key Projects
+
+### 1️⃣ Data Analysis & Visualization Projects
+- **Customer Insights Dashboard (Power BI)** – Built interactive dashboards integrating multiple datasets to analyze customer behavior and sales trends.  
+  **Skills:** Power BI, DAX, Data Modeling, SQL
+
+- **Hotel Booking Data Analysis** – Explored and visualized hotel booking data to uncover trends and patterns.  
+  **Skills:** Python (Pandas, NumPy, Matplotlib, Plotly), SQL, Data Cleaning
+
+### 2️⃣ Cloud & Data Engineering Projects
+- **AWS Cloud Data Pipeline** – Automated ETL workflows on AWS to extract, transform, and load large datasets into cloud storage.  
+  **Skills:** AWS (S3, Lambda), Python, ETL, Apache Spark
+
+- **Capstone Project: Business Analytics for Decision Making** – End-to-end project analyzing real-world business data, creating dashboards, and providing actionable insights.  
+  **Skills:** SQL, Power BI, Python, Data Visualization, Cloud Computing
+
+### 3️⃣ Machine Learning & Predictive Analytics
+- **Predictive Modeling** – Implemented regression and classification models to predict customer churn and sales forecasting.  
+  **Skills:** Python (scikit-learn), R, Data Preprocessing, Model Evaluation
+
+- **Recommendation System Prototype** – Built a recommendation system for e-commerce products using collaborative filtering.  
+  **Skills:** Python, Pandas, NumPy, Scikit-learn, Data Analysis
+
+### ⚡ Tools & Technologies Used
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+
+
+## ✍️ My favourite quote
 *"Without data, you're just another person with an opinion." – W. Edwards Deming*
-
 ---
 
-## 📺 My YouTube Power BI Course
-[![Watch the video](https://img.youtube.com/vi/L-tdnpGWDyI/0.jpg)](https://www.youtube.com/watch?v=L-tdnpGWDyI&list=PL9EkNWk9KFH2Wih412RWDfLI3aY4RU_PK&pp=gAQB)
+# 📊 GitHub Stats & Highlights
+
+![](https://github-readme-stats.vercel.app/api?username=FarangizJ&theme=blueberry&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarangizJ&layout=compact&theme=blueberry&hide_border=false)
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FarangizJ&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FarangizJ&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarangizJ&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FarangizJ&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
+### 🔝 Top 5 Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=FarangizJ&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=FarangizJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
