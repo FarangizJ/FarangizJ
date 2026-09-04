@@ -1,77 +1,101 @@
-# 💫 About Me:
+# Farangiz Jurakhonova
 
-I’m a Master’s student in Business Analytics at Central European University, Vienna, with a strong passion for data-driven decision-making. My work spans data analysis, visualization, and cloud computing, helping transform raw data into actionable insights that support business strategy.
+**Data scientist — forecasting, data pipelines, applied AI.**
+M.Sc. Business Analytics, Central European University (Vienna).
 
-Before diving into analytics, I developed a curiosity for how data shapes real-world decisions, which led me to create educational content on YouTube, including a Power BI course in my native language, making data analytics accessible to a wider audience.
+![Ex-ante is the honest headline](https://raw.githubusercontent.com/FarangizJ/capstone-project/main/outputs/forecast_scoreboard_exante.png)
 
-I’m particularly interested in leveraging SQL, Python, R, and visualization tools to uncover patterns, optimize processes, and contribute to smarter business outcomes.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Farangiz_jk) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farangiz-jurakhonova/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@farangiz8833/featured) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdumalikovaf18@gmail.com)
+<sub>Six demand-forecast specifications on one shared hold-out. The hollow markers are the
+conditional backcast — the flattering number. The bars are ex-ante error, which is what you
+actually get when the model has to forecast its own drivers. Every single-country model posts a
+**negative** R²; only the pooled four-country panel with fixed effects generalises, at
+**6.08% MAPE, R² +0.10**. That is the number I put in front of stakeholders.
+[See the analysis →](https://github.com/FarangizJ/capstone-project)</sub>
 
 ---
-### 📺 YouTube
-[![YouTube](https://img.shields.io/badge/YouTube-Power%20BI%20Course-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=L-tdnpGWDyI&list=PL9EkNWk9KFH2Wih412RWDfLI3aY4RU_PK&pp=gAQB)
 
+## What I actually do
 
-## 🔝 Key Projects
+Most of the difficulty in analytics is upstream of the model. I spend my time reconciling
+disconnected source systems, building the validation that stops bad records reaching a
+dashboard, and making sure the number that reaches a decision-maker is the defensible one
+rather than the impressive one.
 
-### 1️⃣ Data Analysis & Visualization Projects
-- **Customer Insights Dashboard (Power BI)** – Built interactive dashboards integrating multiple datasets to analyze customer behavior and sales trends.  
-  **Skills:** Power BI, DAX, Data Modeling, SQL
+Three things I care about, with the evidence attached:
 
-- **Hotel Booking Data Analysis** – Explored and visualized hotel booking data to uncover trends and patterns.  
-  **Skills:** Python (Pandas, NumPy, Matplotlib, Plotly), SQL, Data Cleaning
+**Pipelines that fail loudly.** Four disconnected source systems plus 10+ APIs merged into one
+governed dataset with automated quality gates and column-level lineage — every field documented
+with its meaning, its source and its owner. Shipped as a containerised application that
+auto-releases on commit.
 
-### 2️⃣ Cloud & Data Engineering Projects
-- **AWS Cloud Data Pipeline** – Automated ETL workflows on AWS to extract, transform, and load large datasets into cloud storage.  
-  **Skills:** AWS (S3, Lambda), Python, ETL, Apache Spark
+**Scale without losing the thread.** 16.2M intraday trade records across 15,140 fragmented
+files consolidated into one integrity-verified dataset, then an automated anomaly detector that
+surfaces *systematic* failure modes instead of one-off outliers.
 
-- **Capstone Project: Business Analytics for Decision Making** – End-to-end project analyzing real-world business data, creating dashboards, and providing actionable insights.  
-  **Skills:** SQL, Power BI, Python, Data Visualization, Cloud Computing
+**Measurement that doesn't flatter itself.** Competing specifications benchmarked on a shared
+hold-out, uncertainty quantified with bootstrapping and Monte Carlo, drivers attributed with
+SHAP and permutation importance rather than coefficient size.
 
-### 3️⃣ Machine Learning & Predictive Analytics
-- **Predictive Modeling** – Implemented regression and classification models to predict customer churn and sales forecasting.  
-  **Skills:** Python (scikit-learn), R, Data Preprocessing, Model Evaluation
-
-- **Recommendation System Prototype** – Built a recommendation system for e-commerce products using collaborative filtering.  
-  **Skills:** Python, Pandas, NumPy, Scikit-learn, Data Analysis
-
-### ⚡ Tools & Technologies Used
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-
-
-## ✍️ My favourite quote
-*"Without data, you're just another person with an opinion." – W. Edwards Deming*
 ---
 
-# 📊 GitHub Stats & Highlights
+## Selected work
 
-![](https://github-readme-stats.vercel.app/api?username=FarangizJ&theme=blueberry&show_icons=true&count_private=true)
+### [Forecasting Uzbekistan's Power-Sector Transition to 2040](https://github.com/FarangizJ/capstone-project)
+`Python` · `scikit-learn` · `Plotly Dash` · `Docker` — **[▶ live dashboard](https://huggingface.co/spaces/feyajk/uzbekistan-power-tracker)**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarangizJ&layout=compact&theme=blueberry&hide_border=false)
+Demand, generation mix, CO₂ pathways and supply-adequacy signals to 2040, built with ILF
+Consulting Engineers. An 84-column master dataset assembled from IEA, IRENA, World Bank, Ember
+and StatSUZ, with a provenance table tracing every derived field back to source. Six model
+specifications benchmarked; three scenarios; a bilingual Dash application containerised and
+deployed. The result senior stakeholders used to prioritise capital investment — including a
+planned 500 MW data-centre load.
 
+### [Weather and forecast error in EPEX SPOT intraday power markets](https://github.com/FarangizJ/intraday-power-analysis)
+`Python` · `pandas` · `CatBoost` · `ENTSO-E` · `Open-Meteo`
 
+As wind and solar take a larger share of the mix, prices in the hours before delivery are set
+less by demand than by the *error* in the forecast the market already priced in. 16.2M trade
+records across the German and Austrian bidding zones, joined to weather at delivery-hour
+resolution using a documented wind-speed extrapolation method, with feature attribution over
+forecast-error asymmetry.
 
-### 🔝 Top 5 Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=FarangizJ&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+### [Near-real-time sentiment scoring on AWS](https://github.com/FarangizJ/aws-news-sentiment-analysis)
+`AWS Bedrock` · `Lambda` · `S3` · `Python`
 
+News ingestion and sentiment pipeline on Bedrock, S3 and Lambda. Built for the CEU Hackathon
+for Social Impact, City of Vienna challenge.
 
+**Also:**
+[spark-delta-lake-vehicle-market-analysis](https://github.com/FarangizJ/spark-delta-lake-vehicle-market-analysis) — distributed processing with Delta Lake storage ·
+[energy-forecasting-austria](https://github.com/FarangizJ/energy-forecasting-austria) — time-series benchmarking on Austrian demand ·
+[airbnb-eu-price](https://github.com/FarangizJ/airbnb-eu-price) — which listing attributes actually move price across European cities
 
+---
+
+## Stack
+
+| | |
+|---|---|
+| **Languages** | Python · R · SQL (PostgreSQL, MySQL, DuckDB) · Advanced Excel + VBA |
+| **Data engineering** | ETL design · Apache Spark · Delta Lake · dbt · Docker · CI auto-release · quality gates and column-level lineage |
+| **Modelling** | scikit-learn · time-series forecasting · SHAP and permutation importance · bootstrapped and Monte Carlo uncertainty · TimeSeriesSplit |
+| **Cloud** | AWS — Bedrock, S3, Lambda |
+| **Applied AI** | GenAI copilots in daily engineering work, with independent verification · prompt engineering · graduate coursework in AI Engineering and LLM Integration |
+| **Visualisation** | Plotly Dash · Tableau · Power BI |
+| **Governance** | Data Governance Certificate (IE University, 100/100) · DAMA-DMBOK |
+
+---
+
+## Teaching
+
+I founded my university's first analytics programme as head of the RStudio Analytics Club and
+ran hands-on workshops for **50+ students**. I also publish a Power BI course on YouTube in
+Uzbek — most analytics material simply doesn't exist in my first language, and that seemed like
+a fixable problem.
+
+---
+
+📍 **Bellevue, WA** — open to data science, analytics and data engineering roles in the Seattle area.
+🌐 English · Russian · Uzbek · German · Persian
+
+[LinkedIn](https://www.linkedin.com/in/farangiz-jurakhonova/) · [abdumalikovaf18@gmail.com](mailto:abdumalikovaf18@gmail.com)
