@@ -40,6 +40,10 @@ SHAP and permutation importance rather than coefficient size.
 
 ## Selected work
 
+### [Can a beauty assistant cite the label?](https://github.com/FarangizJ/ceu-ai-engineering-class/tree/41114f6f4896b768a4ec893360c8a6486eae5d7c/label_qa)
+
+I compared PDF text extraction with a Tesseract OCR fallback on ten product-label questions. On the seven factual questions, Chroma retrieved the correct page for all seven with OCR, but only six passages contained the answer. The scan lost a faded batch code. The benchmark includes both PDFs, per-question traces and scoring rules for citation, clarification and abstention.
+
 ### [Forecasting Uzbekistan's Power-Sector Transition to 2040](https://github.com/FarangizJ/capstone-project)
 `Python` · `scikit-learn` · `Plotly Dash` · `Docker` — **[▶ live dashboard](https://huggingface.co/spaces/feyajk/uzbekistan-power-tracker)**
 
@@ -81,6 +85,7 @@ for Social Impact, City of Vienna challenge.
 | **Modelling** | scikit-learn · time-series forecasting · SHAP and permutation importance · bootstrapped and Monte Carlo uncertainty · TimeSeriesSplit |
 | **Cloud** | AWS — Bedrock, S3, Lambda |
 | **Applied AI** | GenAI copilots in daily engineering work, with independent verification · prompt engineering · graduate coursework in AI Engineering and LLM Integration |
+| **Document Q&A** | Python · OpenAI Responses API integration · PDF extraction and Tesseract OCR · TF-IDF embeddings and Chroma vector search · grounded prompts and page-citation evaluation. [Benchmark and examples](https://github.com/FarangizJ/ceu-ai-engineering-class/tree/41114f6f4896b768a4ec893360c8a6486eae5d7c/label_qa) |
 | **Visualisation** | Plotly Dash · Tableau · Power BI |
 | **Governance** | Data Governance Certificate (IE University, 100/100) · DAMA-DMBOK |
 
