@@ -44,6 +44,12 @@ SHAP and permutation importance rather than coefficient size.
 
 I compared PDF text extraction with a Tesseract OCR fallback on ten product-label questions. On the seven factual questions, Chroma retrieved the correct page for all seven with OCR, but only six passages contained the answer. The scan lost a faded batch code. The benchmark includes both PDFs, per-question traces and scoring rules for citation, clarification and abstention.
 
+### Classifying 113 consumer complaint categories with ModernBERT
+
+In CEU’s Applied Deep Learning course (ECBS5200), I fine-tuned ModernBERT for multiclass classification on consumer financial complaints. The coursework used a fixed data split and macro-F1 to give each category equal weight when evaluating a dataset with a long tail of rare classes.
+
+[Course overview and dataset](https://github.com/earino/applied-deep-learning#dataset) · [Fine-tuning coursework](https://github.com/earino/applied-deep-learning/tree/main/week1) · [Error diagnosis and calibration coursework](https://github.com/earino/applied-deep-learning/tree/main/week4)
+
 ### [Forecasting Uzbekistan's Power-Sector Transition to 2040](https://github.com/FarangizJ/capstone-project)
 `Python` · `scikit-learn` · `Plotly Dash` · `Docker` — **[▶ live dashboard](https://huggingface.co/spaces/feyajk/uzbekistan-power-tracker)**
 
@@ -86,6 +92,7 @@ for Social Impact, City of Vienna challenge.
 | **Cloud** | AWS — Bedrock, S3, Lambda |
 | **Applied AI** | GenAI copilots in daily engineering work, with independent verification · prompt engineering · graduate coursework in AI Engineering and LLM Integration |
 | **Document Q&A** | Python · OpenAI Responses API integration · PDF extraction and Tesseract OCR · TF-IDF embeddings and Chroma vector search · grounded prompts and page-citation evaluation. [Benchmark and examples](https://github.com/FarangizJ/ceu-ai-engineering-class/tree/41114f6f4896b768a4ec893360c8a6486eae5d7c/label_qa) |
+| **Open-weight models** | ModernBERT fine-tuning · multiclass text classification · macro-F1 for imbalanced data |
 | **Visualisation** | Plotly Dash · Tableau · Power BI |
 | **Governance** | Data Governance Certificate (IE University, 100/100) · DAMA-DMBOK |
 
