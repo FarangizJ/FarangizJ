@@ -44,6 +44,10 @@ SHAP and permutation importance rather than coefficient size.
 
 I compared PDF text extraction with a Tesseract OCR fallback on ten product-label questions. On the seven factual questions, Chroma retrieved the correct page for all seven with OCR, but only six passages contained the answer. The scan lost a faded batch code. The benchmark includes both PDFs, per-question traces and scoring rules for citation, clarification and abstention.
 
+### [Comparing image and text fusion for pleural effusion classification](multimodal-fusion.md)
+
+I compared early, joint and late fusion of chest X-rays and clinical report text using VGG16 and DistilBERT. The case study explains where the two inputs meet in each design and how report wording affects what a model evaluation can establish.
+
 ### Classifying 113 consumer complaint categories with ModernBERT
 
 In CEU’s Applied Deep Learning course (ECBS5200), I fine-tuned ModernBERT for multiclass classification on consumer financial complaints. The coursework used a fixed data split and macro-F1 to give each category equal weight when evaluating a dataset with a long tail of rare classes.
